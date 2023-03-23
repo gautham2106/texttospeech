@@ -51,7 +51,7 @@ iface=gr.Interface(
     inputs=gr.inputs.Textbox("Enter your prompt here...", type="text"),
 
     outputs=gr.Textbox("Prompt output will appear here..."),
-    title="GPT-3 Text Davinci-003 Prompt Generator",
+    title="GPT-3 voice Assistant",
     description="Enter a prompt and generate a response using the GPT-3 Text Davinci-003 model.",
 
 )
